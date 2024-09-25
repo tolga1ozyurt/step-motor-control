@@ -1,13 +1,8 @@
         /*************************************
-                        TDD R&D
                     Tolga Kaan Özyurt
                   Stepper Motor Driving
       Waveshare Motor Driver Shield and Arudino Uno
-
-
         *************************************/
-
-
 
 #include "DEV_Config.h"
 #include "Motor.h"
@@ -132,7 +127,7 @@ void motor2_rot(int angle){
 
 void gotoAngle(double sensorValue, int lasAngle, int startPos){ 
 
-
+//in progress
   
 
 }
